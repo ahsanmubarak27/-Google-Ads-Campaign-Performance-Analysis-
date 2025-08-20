@@ -21,7 +21,7 @@ Python, Pandas, Matplotlib, Seaborn, Looker Studio
 ## Dashboard
 [**View Dashboard on Looker Studio**](https://lookerstudio.google.com/reporting/3da0e31a-2241-4b7f-aa50-1fe10dba3725)
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ## Project Files
 - [Notebook](google-ads-campaign-performance-analysis.ipynb)  
